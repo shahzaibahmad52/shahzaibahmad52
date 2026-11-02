@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About me
 
-- 🏢 Senior Technical Consultant at **Dynamics Stream** — building on Microsoft Dynamics 365 F&O since 2020
+- 🏢 Self-employed Microsoft Dynamics 365 F&O consultant — building on D365 F&O since 2020
 - 🛠️ Deep **X++** experience: extensions, Chain of Command, data entities, SSRS reports, batch jobs and services
 - 🔗 I connect D365 to the outside world — REST/OData, AIF/custom services, Azure and Power Platform
 - 🌍 Gulf & MENA localization: **ZATCA e-invoicing (Saudi Arabia)** and **ETA e-invoicing (Egypt)**
