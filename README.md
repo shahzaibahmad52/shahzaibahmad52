@@ -14,7 +14,7 @@
 - 🏢 Self-employed Microsoft Dynamics 365 consultant — building on D365 F&O since 2020
 - 🛠️ Deep **X++** experience: extensions, Chain of Command, data entities, SSRS reports, batch jobs and services
 - 🔗 I connect D365 to the outside world — REST/OData, custom services, Azure and Power Platform
-- 🌍 Gulf & MENA focus: **e-invoicing for UAE, KSA (ZATCA), Oman and Egypt (ETA)**
+- 🌍 Gulf & MENA focus: **e-invoicing for UAE, KSA (ZATCA), Oman, Egypt (ETA) and Jordan (JoFotara)**
 - 💼 Delivered projects for real estate, food production and professional-services clients
 - 📫 Open to consulting and freelance projects — reach me on [LinkedIn](https://www.linkedin.com/in/shahzaib-d365fo/)
 
@@ -40,6 +40,7 @@
 | 🇦🇪 **UAE** | UAE e-invoicing mandate readiness |
 | 🇴🇲 **Oman** | Oman e-invoicing readiness |
 | 🇪🇬 **Egypt** | ETA e-invoicing — OAuth2, signed invoice JSON submission |
+| 🇯🇴 **Jordan** | JoFotara (Income and Sales Tax Department) e-invoicing integration |
 
 ### 📦 Products I work with
 
