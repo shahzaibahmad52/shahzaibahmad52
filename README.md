@@ -45,12 +45,6 @@
   <img src="https://img.shields.io/badge/REST%20%2F%20OData-APIs-6C757D?style=flat-square"/>
 </p>
 
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahzaibahmad52&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-</p>
-
 ---
 
 <p align="center"><i>Most of my D365 work lives in private client repositories — happy to talk through it.</i></p>
